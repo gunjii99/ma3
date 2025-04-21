@@ -3,11 +3,11 @@
 ***
 
 ### Group members
-| Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+| Hiroki Kanai | S172770 |
+| Saad Iftikhar | S172763 |
+| Gunjan Lund | S172762 |
+| Francesco Dorigo | S166955 |
+| Eleonora Lorenzi| S172710 |
 
 ***
 
